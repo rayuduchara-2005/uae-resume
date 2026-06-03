@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Rayudu Sai Charan Teja ??
+# Hi, I'm Rayudu Sai Charan Teja 
 
 ### Performance Marketing Manager | Digital Marketing & Technology Consultant
 
@@ -9,7 +9,7 @@
 [![Website](https://img.shields.io/badge/WaveXOne-wavexone.com-1a365d?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wavexone.com)
 [![Location](https://img.shields.io/badge/Open%20to-Dubai%20%7C%20UAE%20%7C%20GCC-0066CC?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-**Performance Marketing · Google Ads · Meta Ads · SEO · Web Development · Business Growth · AI Automation**
+**Performance Marketing Â· Google Ads Â· Meta Ads Â· SEO Â· Web Development Â· Business Growth Â· AI Automation**
 
 </div>
 
@@ -19,7 +19,7 @@
 
 I'm a **Digital Marketing and Technology Professional** with **5+ years of experience** driving measurable business growth through performance marketing, SEO, paid advertising, and scalable digital solutions. I combine deep expertise in **Google Ads, Meta Ads, and conversion optimization** with hands-on skills in **web development, mobile applications, and API integration**.
 
-Currently working as a **Digital Marketing & Technology Consultant** at **SMR Oneway**, I help startups and enterprise businesses generate qualified leads, improve online visibility, and deliver end-to-end digital solutions — from campaign strategy to platform deployment.
+Currently working as a **Digital Marketing & Technology Consultant** at **SMR Oneway**, I help startups and enterprise businesses generate qualified leads, improve online visibility, and deliver end-to-end digital solutions â€” from campaign strategy to platform deployment.
 
 **Open to opportunities in:** Dubai, Abu Dhabi, Saudi Arabia, Qatar, and India.
 
@@ -27,7 +27,7 @@ Currently working as a **Digital Marketing & Technology Consultant** at **SMR On
 
 ## Professional Summary
 
-> Results-driven marketing technologist specializing in **Performance Marketing**, **Lead Generation**, and **Business Growth Strategy**. Proven ability to reduce cost-per-lead by 35–45%, increase qualified lead volume by 60%+, and deliver conversion-optimized digital platforms for UAE and international markets.
+> Results-driven marketing technologist specializing in **Performance Marketing**, **Lead Generation**, and **Business Growth Strategy**. Proven ability to reduce cost-per-lead by 35â€“45%, increase qualified lead volume by 60%+, and deliver conversion-optimized digital platforms for UAE and international markets.
 
 | Area | Expertise |
 |------|-----------|
@@ -103,7 +103,7 @@ A scalable MLM web application and Android mobile app with referral-based growth
 
 ## Achievements
 
-- Reduced **cost-per-lead by 35–45%** across Google Ads and Meta Ads client campaigns
+- Reduced **cost-per-lead by 35â€“45%** across Google Ads and Meta Ads client campaigns
 - Increased **qualified lead volume by 60%+** through multi-channel digital marketing strategies
 - Improved **organic search visibility** through comprehensive SEO implementations (technical, on-page, off-page)
 - Delivered **end-to-end digital platforms** combining marketing strategy with web/mobile development
@@ -144,8 +144,8 @@ A scalable MLM web application and Android mobile app with referral-based growth
 | **Email** | [Saicharanteja47@gmail.com](mailto:Saicharanteja47@gmail.com) |
 | **Phone** | +91 9000148428 \| +91 9390438428 |
 | **LinkedIn** | [rayudu-sai-charan-teja](https://www.linkedin.com/in/rayudu-sai-charan-teja-3465a12bb/) |
-| **Location** | Hyderabad, India — Open to Dubai, Abu Dhabi, Saudi Arabia, Qatar |
-| **Company** | SMR Oneway — Digital Marketing & Technology Consultant |
+| **Location** | Hyderabad, India â€” Open to Dubai, Abu Dhabi, Saudi Arabia, Qatar |
+| **Company** | SMR Oneway â€” Digital Marketing & Technology Consultant |
 
 </div>
 
