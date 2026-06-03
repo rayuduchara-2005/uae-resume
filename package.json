@@ -1,0 +1,11 @@
+{
+  "name": "uae-resume-builder",
+  "private": true,
+  "description": "Generate ATS-friendly Word resume",
+  "scripts": {
+    "build": "node build_docx.js"
+  },
+  "dependencies": {
+    "docx": "^9.5.0"
+  }
+}
