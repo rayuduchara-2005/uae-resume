@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayudu-sai-charan-teja-3465a12bb/)
 [![Email](https://img.shields.io/badge/Email-Saicharanteja47@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Saicharanteja47@gmail.com)
-[![Website](https://img.shields.io/badge/WaveXOne-wavexone.com-1a365d?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wavexone.com)
+[![Website](https://img.shields.io/badge/Smroneway-smroneway.com-1a365d?style=for-the-badge&logo=google-chrome&logoColor=white)](https://smroneway.com)
 [![Location](https://img.shields.io/badge/Open%20to-Dubai%20%7C%20UAE%20%7C%20GCC-0066CC?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 **Performance Marketing · Google Ads · Meta Ads · SEO · Web Development · Business Growth · AI Automation**
